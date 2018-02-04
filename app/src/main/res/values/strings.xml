@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">TMDB Application</string>
+    <string name="title_activity_utama">TMDB Application</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="Popular">Popular</string>
+    <string name="Up_Coming">Up Coming</string>
+    <string name="Favorite">Favorite</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_detail_movie">DetailMovieActivity</string>
+    <string name="large_text">Description</string>
+    <string name="action_settings">Settings</string>
+</resources>
